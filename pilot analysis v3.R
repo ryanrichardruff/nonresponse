@@ -16,6 +16,8 @@ otu <- read_excel("SDF OTU full data table for analysis RUFF _ analytic set.xlsx
 View(otu)   
 
 
+"CHANGE ME"
+DELETE ME
 
 #isolate amongst saliva, then create two subesets. Run program twice with the different subsetted "newdata" for both models
 #current two comparisons: nonresponders to everyone else; nonresponders to SDF
